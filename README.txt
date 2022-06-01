@@ -1,1 +1,1 @@
-This repo is only a single page responsive portfolio template.
+This repo is only a single page responsive portfolio website.
