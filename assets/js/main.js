@@ -26,3 +26,8 @@
 		});
 
 })(jQuery);
+		window.onbeforeunload = () => {
+					for(const form of document.getElementByTagName('form')){
+						form.reset();
+					}
+				}
